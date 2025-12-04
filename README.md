@@ -41,3 +41,19 @@ El Top 20% de clientes concentra la mayoría del beneficio. Dos mercados princip
 Si deseas ver más proyectos o colaborar:  
 **mariateresa-mc (GitHub)**
 
+### Portada  
+![Portada](img/portada.png)
+
+### Análisis de clientes  
+![Análisis Clientes](img/analisis_clientes.png)
+
+### Análisis de productos  
+![Análisis Productos](img/analisis_productos.png)
+
+### Análisis geográfico  
+![Análisis Geográfico](img/analisis_geografico.png)
+
+### Conclusiones  
+![Conclusiones](img/conclusiones.png)
+
+
