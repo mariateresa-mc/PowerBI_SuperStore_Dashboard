@@ -10,6 +10,8 @@ Este dashboard permite analizar el rendimiento comercial de forma clara y accion
 - **Detecta oportunidades de crecimiento geográfico** mediante visualizaciones comparativas entre mercados consolidados y emergentes.
 - **Incluye una página final con conclusiones ejecutivas**, optimizada para la toma de decisiones rápida sin revisar todo el informe.
 
+- 📊 Público objetivo: equipos de ventas, marketing, dirección comercial y analistas BI.
+
 
 ---
 
