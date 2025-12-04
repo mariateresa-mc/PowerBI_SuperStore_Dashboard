@@ -17,9 +17,11 @@ Dashboard ejecutivo de ventas basado en el dataset SuperStore. Incluye portada, 
     
   ## 🔗 Acceso rápido al Dashboard
 
-### 📥 Descargar el proyecto
 
-👉 [Descargar archivo Power BI (.pbix)](https://github.com/mariateresa-mc/PowerBI_SuperStore_Dashboard/raw/main/Dashboard_SuperStore.pbix)
+
+> 📥 **Descargar Dashboard (.pbix)**  
+> 👉 https://github.com/mariateresa-mc/PowerBI_SuperStore_Dashboard/raw/main/Dashboard_SuperStore.pbix
+
 
 
 
