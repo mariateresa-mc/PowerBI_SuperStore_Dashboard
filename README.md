@@ -12,7 +12,12 @@ Dashboard ejecutivo de ventas basado en el dataset SuperStore. Incluye portada, 
   - analisis_clientes.png  
   - analisis_productos.png  
   - analisis_geografico.png  
-  - conclusiones.png  
+  - conclusiones.png
+  - 
+  ## 🔗 Acceso rápido al Dashboard
+
+👉 [Descargar el archivo Power BI (.pbix)](Dashboard_SuperStore.pbix)
+
 
 ---
 
