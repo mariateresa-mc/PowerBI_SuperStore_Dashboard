@@ -53,12 +53,23 @@ Si deseas ver más proyectos o colaborar:
 
 
 ### Análisis de productos  
-![Análisis Productos](img/analisis_productos.png)
+![Análisis de productos](img/analisis_productos.png)
+
+---
+
+
 
 ### Análisis geográfico  
-![Análisis Geográfico](img/analisis_geografico.png)
+![Análisis geográfico](img/analisis_geografico.png)
+
+---
+
+
 
 ### Conclusiones  
 ![Conclusiones](img/conclusiones.png)
+
+---
+
 
 
