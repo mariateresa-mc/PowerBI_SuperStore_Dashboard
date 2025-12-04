@@ -2,6 +2,15 @@
 
 Dashboard ejecutivo de ventas basado en el dataset SuperStore. Incluye portada, análisis de clientes, análisis de productos, análisis geográfico y página de conclusiones con insight ejecutivo.
 
+### 📝 Resumen ejecutivo
+
+Este dashboard permite analizar el rendimiento comercial de forma clara y accionable. Está diseñado para profesionales de ventas, dirección y business intelligence que necesitan identificar dónde se genera el beneficio y hacia dónde orientar las decisiones estratégicas.
+
+- **Prioriza clientes estratégicos según su rentabilidad**, facilitando acciones de fidelización y campañas específicas.
+- **Detecta oportunidades de crecimiento geográfico** mediante visualizaciones comparativas entre mercados consolidados y emergentes.
+- **Incluye una página final con conclusiones ejecutivas**, optimizada para la toma de decisiones rápida sin revisar todo el informe.
+
+
 ---
 
 ## 📌 Contenido
