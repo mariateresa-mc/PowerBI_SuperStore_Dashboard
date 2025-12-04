@@ -44,8 +44,13 @@ Si deseas ver más proyectos o colaborar:
 ### Portada  
 ![Portada](img/portada.png)
 
+---
+
 ### Análisis de clientes  
-![Análisis Clientes](img/analisis_clientes.png)
+![Análisis de clientes](img/analisis_clientes.png)
+
+---
+
 
 ### Análisis de productos  
 ![Análisis Productos](img/analisis_productos.png)
