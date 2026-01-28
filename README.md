@@ -38,6 +38,7 @@ Este dashboard permite analizar el rendimiento comercial de forma clara y accion
 
 
 
+
 ---
 
 ## 📊 Objetivo
