@@ -31,7 +31,7 @@ Este dashboard permite analizar el rendimiento comercial de forma clara y accion
 
 
 > 📥 **Descargar Dashboard (.pbix)**  
-> 👉 https://github.com/mariateresa-mc/PowerBI_SuperStore_Dashboard/raw/main/Dashboard_SuperStore.pbix
+> 👉 Haz este cambio en tu README: Sustituye el link actual por este otro: https://github.com/mariateresa-mc/PowerBI_SuperStore_Dashboard/blob/main/Dashboard_SuperStore.pbix
 
 
 
