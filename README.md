@@ -30,8 +30,10 @@ Este dashboard permite analizar el rendimiento comercial de forma clara y accion
 
 
 
-> 📥 **Descargar Dashboard (.pbix)**  
-> 👉 https://github.com/mariateresa-mc/PowerBI_SuperStore_Dashboard/blob/main/Dashboard_SuperStore.pbix
+> 📥 
+> ## 📂 Acceso al archivo técnico
+Para revisar el modelo de datos y las medidas DAX, puedes descargar el archivo original aquí:
+> 👉 https://drive.google.com/file/d/1P61QuVE6EdvhfgkH_kWyiwXUZ4jXsMLY/view?usp=sharing
 
 
 
